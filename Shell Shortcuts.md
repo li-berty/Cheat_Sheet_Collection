@@ -1,4 +1,4 @@
-## Shell shortcuts
+## Shell Shortcuts
 
 | Script | Description |
 | :--- | :--- |
