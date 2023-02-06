@@ -13,9 +13,9 @@
 | Ctrl+k | Cut everything after the cursor |
 | Alt+d | Cut word after the cursor |
 | Alt+w | Cut word before the cursor |
-|Ctrl+y | Paste the last deleted command |
-| Ctrl+_ Undo Ctrl+u | Cut everything before the cursor |
-|Ctrl+xx | Toggle between first and current position |
+| Ctrl+y | Paste the last deleted command |
+| Ctrl+u | Cut everything before the cursor |
+| Ctrl+xx | Toggle between first and current position |
 | Ctrl+l | Clear the terminal |
 | Ctrl+c | Cancel the command |
 | Ctrl+r | Search command in history - type the search term |
