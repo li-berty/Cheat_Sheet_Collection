@@ -23,3 +23,4 @@
 | Ctrl+g | Cancel the search and restore original line |
 | Ctrl+n | Next command from the History |
 | Ctrl+p | Previous command from the History |
+:smile: :+1:
