@@ -1,5 +1,5 @@
 ## Resetting the root password in Linux
-| Description | Command |
+| Action | Command |
 | :--- | :--- |
 | Start the system, go to the boot menu (grub) and  to edit press | key "e"|
 | Add the parameter to the end of the line beginning with linux| single init=/bin/bash |
