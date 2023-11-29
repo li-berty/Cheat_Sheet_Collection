@@ -1,4 +1,4 @@
-## Resetting the root password
+## Resetting the root password in Linux
 | Description | Command |
 | :--- | :--- |
 | Start the system, go to the boot menu (grub) and  to edit press | key "e"|
