@@ -1,9 +1,5 @@
 ### Using prompts.chat
-
 [prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences.
-
-<img width="1400" alt="Screenshot 2025-01-05 at 22 17 19" src="https://github.com/user-attachments/assets/272d2092-b651-452a-a049-f46b31c32889" />
-
 ---
 
 ## Unmerged Prompts
