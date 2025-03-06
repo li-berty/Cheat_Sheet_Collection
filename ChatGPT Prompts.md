@@ -6,4 +6,4 @@
 
 ## My Prompts
 
-### ChatGPT SEO prompts
+### ChatGPT prompts
